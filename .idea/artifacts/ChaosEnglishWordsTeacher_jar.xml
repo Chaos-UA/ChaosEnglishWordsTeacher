@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChaosEnglishWordsTeacher.jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="ChaosEnglishWordsTeacher.jar">
+      <element id="module-output" name="ChaosEnglishWordsTeacher" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jl1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gtranslateapi-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jdom-2.0.2/jdom-2.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
